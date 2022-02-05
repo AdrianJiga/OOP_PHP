@@ -7,7 +7,7 @@ The course is split into the following sections: <br>
 1. OOP Basics ✅
 2. $this Keyword ✅
 3. Constructor and Destructor ✅
-4. Chaining Methods and Properties
+4. Chaining Methods and Properties ✅
 5. Access Modifiers
 6. Inheritance
 7. Final Keyword
@@ -24,7 +24,8 @@ The course is split into the following sections: <br>
 18. Traits and Code Inclusion
 19. Autoloading and Dynamic Calling
 20. S.O.L.I.D - Object Oriented Principles*
-    <br>
+<br>
+<br>
 
 
 The S.O.L.I.D principles are:
