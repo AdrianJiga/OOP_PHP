@@ -4,9 +4,9 @@ from the Udemy platform.
 <br>
 
 The course is split into the following sections: <br>
-1. OOP Basics
-2. $this Keyword
-3. Constructor and Destructor
+1. OOP Basics ✅
+2. $this Keyword ✅
+3. Constructor and Destructor ✅
 4. Chaining Methods and Properties
 5. Access Modifiers
 6. Inheritance
