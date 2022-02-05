@@ -1,0 +1,1 @@
+This is a file used for a short example of opening a file in the constructor and closing a file in the destructor
