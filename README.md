@@ -8,7 +8,7 @@ The course is split into the following sections: <br>
 2. $this Keyword ✅
 3. Constructor and Destructor ✅
 4. Chaining Methods and Properties ✅
-5. Access Modifiers
+5. Access Modifiers ✅
 6. Inheritance
 7. Final Keyword
 8. Interface
