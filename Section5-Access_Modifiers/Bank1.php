@@ -12,10 +12,6 @@ class Bank1{
         return $this->balance;
     }
 
-    public function setBalance($balance): void {
-        $this->balance = $balance;
-    }
-
     function depositAmount($amount){
         $this->balance = $this->balance + $amount;
     }
