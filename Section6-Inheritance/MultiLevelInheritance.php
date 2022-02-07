@@ -34,6 +34,7 @@ class partTimeTeacher extends Teacher2 {
     function calculateSalary($perHour)
     {
         return $perHour * $this->workingHours;
+
     }
 }
 
