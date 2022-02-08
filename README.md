@@ -9,8 +9,8 @@ The course is split into the following sections: <br>
 3. Constructor and Destructor ✅
 4. Chaining Methods and Properties ✅
 5. Access Modifiers ✅
-6. Inheritance
-7. Final Keyword
+6. Inheritance ✅
+7. Final Keyword ✅
 8. Interface
 9. Abstract Classes and Methods
 10. Static Methods and Properties
