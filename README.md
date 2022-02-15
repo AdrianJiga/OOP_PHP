@@ -11,7 +11,7 @@ The course is split into the following sections: <br>
 5. Access Modifiers ✅
 6. Inheritance ✅
 7. Final Keyword ✅
-8. Interface
+8. Interface ✅
 9. Abstract Classes and Methods
 10. Static Methods and Properties
 11. Polymormhism
