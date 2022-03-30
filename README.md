@@ -14,7 +14,7 @@ The course is split into the following sections: <br>
 8. Interface ✅
 9. Abstract Classes and Methods ✅
 10. Static Methods and Properties
-11. Polymormhism
+11. Polymorphism
 12. Data Encapsulation
 13. Data Abstraction
 14. Magic Methods
