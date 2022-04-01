@@ -20,7 +20,7 @@ The course is split into the following sections: <br>
 14. Magic Methods ✅
 15. Type Hinting ✅
 16. Dependency Injection ✅
-17. Working with Objects
+17. Working with Objects ✅
 18. Traits and Code Inclusion
 19. Autoloading and Dynamic Calling
 20. S.O.L.I.D - Object Oriented Principles*
