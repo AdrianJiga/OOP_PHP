@@ -18,8 +18,8 @@ The course is split into the following sections: <br>
 12. Data Encapsulation ✅
 13. Data Abstraction ✅
 14. Magic Methods ✅
-15. Type Hinting
-16. Dependency Injection
+15. Type Hinting ✅
+16. Dependency Injection ✅
 17. Working with Objects
 18. Traits and Code Inclusion
 19. Autoloading and Dynamic Calling
