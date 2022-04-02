@@ -22,7 +22,7 @@ The course is split into the following sections: <br>
 16. Dependency Injection ✅
 17. Working with Objects ✅
 18. Traits and Code Inclusion ✅
-19. Autoloading and Dynamic Calling
+19. Autoload and Dynamic Calling ✅
 20. S.O.L.I.D - Object Oriented Principles*
 <br>
 <br>
