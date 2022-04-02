@@ -23,7 +23,7 @@ The course is split into the following sections: <br>
 17. Working with Objects ✅
 18. Traits and Code Inclusion ✅
 19. Autoload and Dynamic Calling ✅
-20. S.O.L.I.D - Object Oriented Principles*
+20. S.O.L.I.D - Object Oriented Principles ✅
 <br>
 <br>
 
